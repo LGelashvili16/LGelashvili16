@@ -25,7 +25,7 @@ I'm a self-motivated front-end developer with a passion for learning new things 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="36" height="36"/></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=next" alt="NextJS" width="36" height="36"/></a>
-<a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" width="36" height="36" alt="Angular" /></a>
+<!--<a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" width="36" height="36" alt="Angular" /></a>-->
 </p>
 
 **Tools:**
