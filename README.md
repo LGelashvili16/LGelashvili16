@@ -95,3 +95,4 @@ I also have experience setting up VPS servers, deploying full-stack apps, config
     <img src="https://skillicons.dev/icons?i=discord" width="36" height="36" alt="Discord" />
   </a>
 </p>
+<img src="https://cdn.simpleicons.org/tanstack" width="36" height="36" alt="TanStack" />
