@@ -23,12 +23,6 @@ I also have experience setting up VPS servers, deploying full-stack apps, config
 #### Skill Icons
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,threejs" alt="Frontend skills" />
-</p>
-
-#### Simple Icons / Badges
-
-<p align="left">
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css&logoColor=663399" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
