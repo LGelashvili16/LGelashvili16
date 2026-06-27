@@ -81,18 +81,4 @@ I also have experience setting up VPS servers, deploying full-stack apps, config
 
 ## Find Me Online
 
-<p align="left">
-  <a href="https://www.github.com/LGelashvili16" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/lado-gelashvili/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="36" height="36" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/lgelashvili16/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=instagram" width="36" height="36" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/lg16#0172" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=discord" width="36" height="36" alt="Discord" />
-  </a>
-</p>
-<img src="https://cdn.simpleicons.org/tanstack" width="36" height="36" alt="TanStack" />
+<p align="left"> <a href="https://www.github.com/LGelashvili16" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/lado-gelashvili/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /> </a> <a href="https://www.instagram.com/lgelashvili16/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /> </a> <a href="https://discord.com/users/lg16#0172" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /> </a> </p>
