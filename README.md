@@ -20,8 +20,6 @@ I also have experience setting up VPS servers, deploying full-stack apps, config
 
 ### Frontend
 
-#### Skill Icons
-
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css&logoColor=663399" alt="CSS3" />
@@ -43,14 +41,6 @@ I also have experience setting up VPS servers, deploying full-stack apps, config
 
 ### Backend & Database
 
-#### Skill Icons
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,cloudflare" alt="Backend and database skills" />
-</p>
-
-#### Simple Icons / Badges
-
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
   <img src="https://img.shields.io/badge/Hono-000?style=for-the-badge&logo=hono&logoColor=E36002" alt="Hono" />
@@ -64,14 +54,6 @@ I also have experience setting up VPS servers, deploying full-stack apps, config
 ---
 
 ### Tools & Testing
-
-#### Skill Icons
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,pnpm,npm,figma,vscode,vitest" alt="Tools" />
-</p>
-
-#### Simple Icons / Badges
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
@@ -89,14 +71,6 @@ I also have experience setting up VPS servers, deploying full-stack apps, config
 ---
 
 ## Currently Learning
-
-#### Skill Icons
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" alt="Currently learning" />
-</p>
-
-#### Simple Icons / Badges
 
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
